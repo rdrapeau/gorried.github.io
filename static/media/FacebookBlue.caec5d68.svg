@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/FacebookBlue</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/FacebookBlue">
+            <g>
+                <rect id="Bounds" x="0" y="0" width="64" height="64"></rect>
+                <path d="M24,24 L40,24 L40,40 L24,40 L24,24 Z M33,31 L33,40 L35,40 L35,31 L33,31 Z M35,32 L35,34 L37,34 L37,32 L35,32 Z M31,32 L31,34 L33,34 L33,32 L31,32 Z M35,27 L35,29 L37,29 L37,27 L35,27 Z M33,29 L33,31 L35,31 L35,29 L33,29 Z" id="Combined-Shape" fill="#0079FF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
