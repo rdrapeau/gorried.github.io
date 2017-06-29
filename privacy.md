@@ -5,7 +5,7 @@ title: Privacy Policy
 Privacy Policy
 =====
 
-Privacy Policy Template for a Basic Website with User Generated Content
+
  Solen LLC PRIVACY POLICY
 Solen LLC (the “Company”) is committed to maintaining robust privacy protections for its users.  Our Privacy Policy (“Privacy Policy”) is designed to help you understand how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Service.
 For purposes of this Agreement, “Service” refers to the Company’s service which can be accessed via our website at http://gotfantasyapp.com or through our mobile application GoT Fantasy. in which users can draft a team of GoT characters, and create or join Leagues with their friends. The terms “we,” “us,” and “our” refer to the Company. “You” refers to you, as a user of Service. By accepting our Privacy Policy and Terms of Use (found here: http://gotfantasyapp.com/terms ), you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
